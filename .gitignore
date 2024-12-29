@@ -1,0 +1,14 @@
+# nix evalutation
+result*
+test/
+# hashlink build result
+js/*
+build/*
+*.hl
+# hashlink/c out build folder
+out*
+js.zip
+server.js
+test.hxml
+flake.nix
+flake.lock
